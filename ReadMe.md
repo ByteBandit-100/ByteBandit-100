@@ -21,18 +21,38 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,flask,bash,js,php,html,css,git,github,linux,c,cpp,kali,windows,mysql&perline=8)](https://skillicons.dev)
 
-<h2> 📊 GitHub Stats: </h2>
-<p>
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ByteBandit-100&show_icons=true&theme=radical" />
-</p>
-<h2> 📊 GitHub Streak: </h2>
- <p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bytebandit-100&" alt="bytebandit-100" /></p>
+<h2>📊 GitHub Stats</h2>
 
-<h2> 🔝 Top Languages: </h2>
-<center><div><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ByteBandit-100&layout=compact"></div></center>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ByteBandit-100&theme=dracula" alt="GitHub Stats" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ByteBandit-100&theme=dracula&utcOffset=5.5" alt="Productive Time" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ByteBandit-100&theme=dracula" alt="GitHub Profile Details" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<h2>🔝 Top Languages & 📊 GitHub Streak</h2>
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ByteBandit-100&theme=dracula" alt="Top Languages" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ByteBandit-100&theme=dracula&hide_border=true" alt="GitHub Streak" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ByteBandit-100&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
